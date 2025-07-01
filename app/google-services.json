@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "300342959966",
+    "firebase_url": "https://notesfy-d32bb-default-rtdb.firebaseio.com",
+    "project_id": "notesfy-d32bb",
+    "storage_bucket": "notesfy-d32bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300342959966:android:af004f3c56bf725f3039cf",
+        "android_client_info": {
+          "package_name": "com.example.codenation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMM61UyN0FsanF-1ZbghNA_apPY3lVR_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
